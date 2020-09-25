@@ -10,6 +10,6 @@
 * chapter5: 그리기
 * chapter6: 쓰기
 * chapter7: 작곡하기
-* chapter8: 게입하기
+* chapter8: 게임하기
 * chapter9: 생성모델링의 미래
 * chapter10: 결론
